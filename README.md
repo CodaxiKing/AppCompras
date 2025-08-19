@@ -42,16 +42,13 @@ cd nome-do-repositorio
 Bash
 
 npm install
-# ou
-yarn install
+
 
 4. Inicie o servidor de desenvolvimento:
 
 Bash
 
 npx expo start
-# ou
-yarn start
 
 Após iniciar o servidor, um QR Code será exibido no terminal. Escaneie este QR Code com o aplicativo Expo Go (disponível para Android e iOS) no seu celular.
 
